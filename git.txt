@@ -4,6 +4,8 @@ VSC, VCS ---> git, github
 // Comman line  ---> type in shell(bash) (terminal, comman promt, git bash, ...)
 // editor
 
+// git report --message "sssss"
+// git report -m "sssss"
 
 
 git:
@@ -12,6 +14,9 @@ git:
       git add index.html
       git add assets/css/style.css
       git add .
+3- git commit -m ""
 
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
 
 
