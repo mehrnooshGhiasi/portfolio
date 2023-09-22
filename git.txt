@@ -1,0 +1,17 @@
+VSC, VCS ---> git, github
+
+// GUI
+// Comman line  ---> type in shell(bash) (terminal, comman promt, git bash, ...)
+// editor
+
+
+
+git:
+1- git init
+2- git add 
+      git add index.html
+      git add assets/css/style.css
+      git add .
+
+
+
